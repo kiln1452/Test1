@@ -68,6 +68,7 @@
     </Compile>
     <Compile Include="Formhotfix1.Designer.cs">
       <DependentUpon>Formhotfix1.cs</DependentUpon>
+	 </Compile>
     <Compile Include="FormIss53.cs">
       <SubType>Form</SubType>
     </Compile>
