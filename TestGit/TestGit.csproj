@@ -63,11 +63,19 @@
     <Compile Include="Form2.Designer.cs">
       <DependentUpon>Form2.cs</DependentUpon>
     </Compile>
+<<<<<<< HEAD
     <Compile Include="Formhotfix1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Formhotfix1.Designer.cs">
       <DependentUpon>Formhotfix1.cs</DependentUpon>
+=======
+    <Compile Include="FormIss53.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormIss53.Designer.cs">
+      <DependentUpon>FormIss53.cs</DependentUpon>
+>>>>>>> iss53
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
